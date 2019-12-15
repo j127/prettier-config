@@ -2,11 +2,8 @@
     "name": "@j127/prettier-config",
     "version": "0.1.0",
     "description": "A prettier config",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "main": "index.json",
     "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
-    "license": "MIT",
-    "prettier": "@j127/prettier-config"
+    "repository": "git@github.com:j127/prettier-config.git",
+    "license": "MIT"
 }
