@@ -9,6 +9,15 @@
         "url": "git+ssh://git@github.com/j127/prettier-config.git"
     },
     "license": "MIT",
+    "keywords": [
+        "prettier",
+        "javascript",
+        "formatting",
+        "config",
+        "lint",
+        "css",
+        "formatter"
+    ],
     "bugs": {
         "url": "https://github.com/j127/prettier-config/issues"
     },
