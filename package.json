@@ -1,9 +1,9 @@
 {
     "name": "@j127/prettier-config",
     "version": "1.0.0",
-    "description": "A prettier config",
+    "description": "A prettier config for readable code.",
     "main": "index.json",
-    "author": "J. Cohen <hostelmarketing@gmail.com> (https://github.com/j127)",
+    "author": "J. Cohen (https://github.com/j127)",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/j127/prettier-config.git"
@@ -22,7 +22,5 @@
         "url": "https://github.com/j127/prettier-config/issues"
     },
     "homepage": "https://github.com/j127/prettier-config#readme",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    }
+    "scripts": {}
 }
