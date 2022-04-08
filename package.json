@@ -1,6 +1,6 @@
 {
     "name": "@j127/prettier-config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A prettier config for readable code.",
     "main": "index.json",
     "author": "J. Cohen (https://github.com/j127)",
